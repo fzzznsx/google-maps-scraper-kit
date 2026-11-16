@@ -20,3 +20,8 @@ Thumbs.db
 
 # The engine's jobs, results, logs and downloaded Chrome
 .engine/
+
+# Mesin Lead: prospek dan tetapan peribadi
+leads/
+mesin-lead.json
+!mesin-lead.example.json
